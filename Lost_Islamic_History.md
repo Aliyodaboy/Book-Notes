@@ -265,25 +265,143 @@ The Seveners became known as the Ismailis who were much more politically active 
 
 903: Unexpectedly captured Damascus undefeated domestic army Back out just two years later  
 906: Massacred 20,000 people travelling to Mecca for the pilgrimage  
-928: Attacked Mecca massacred his population and stole the Blackstone from the Ka'ah moving it to Bahrain where it remained till 952
+928: Attacked Mecca massacred his population and stole the black stone from the Ka'bah moving it to Bahrain where it remained till 952
        
 But they never became a real threat until another Ismaili movement rose on the backs of Berbers to become regional power.  
 
 Fatimids:  
 The missionaries built up support from amongst North Africa where they declared the reappearance of a leader who claimed to be a descendent of Ali and Fatima leading to the name Fatimids. They quickly gained control of western North Africa.
 
-969: Conquered Egypt 
+969: Conquered Egypt, founded the city of Cairo alongisde the banks of the Nile  
 970: Al-Azhar university was established to spread Ismaili thought and belief
+
+TODO Mad King Al-Hakim
 
 Finally defeated by Salahuddin Al-Ayyubi during the crusades.
 
-Crusades:   
-200 years Conflict starting in 1095 
-Scented around the city of Jerusalem
-Liberation of Jerusalem:  
+**Crusades:**  
+200 years Conflict starting in 1095 centred around the city of Jerusalem.
+
+Background
+1037: Seljuk Empire established from turkish nomadic warriors that accepted Islam and moved from Central Asia. Began expanding territory and continuing to threaten the Byzantines.
+1095: Byzantine emperor writes letter to Pope Urban II in Rome requesting aid from fellow Christian kingdom. Pope decided to mobilise army instead to take back Jerusalem that was holy for Christians and had been under Muslim rule since Umar. 30,000 strong army marched towards Jerusalem.
+
+1097: Siege of Antioch, the population put to sword
+> Turkish emirs at that point had become involved in petty rivalry no one came to the aid of Antioch when they requested help. Other Muslim leaders knowing the army's ultimate goal was Jerusalem gave them food, arms and passage to save themselves.
+
+1099: Army reached the walls Jerusalem, 1 week siege leading to Crusaders entering the city on 15 July 1099 and civilians being put to death.
+> Muslim world was obviously hit hard by the loss of the 3rd holiest site, Fatimids tried to back the city but failed. The Turks were indulged in civil war and the Abassids were just a name the muslims were in no position to fight back. 
+
+Crusaders were unchallenged due to the inability of the Muslim world at the time to respond so fortified their power along Syrian and Palestine coast leading to 4 Crusader kingdoms.
+
+1144: Turkish Imad al-Din Zengi gathered forces and took the County of Edessa, the weakest Crusader state but the beginning of the changing tide.
+
+1154: Nur al-Din Zengi (Imads son) overthrew Damascus emir who had alliance with Crusaders
+
+1163: Jerusalem King led invasion into Fatimid Egypt under pretence of lack of tribute  
+1164: Fatimids seek assistance from Nur al-Din Zengi who comes to assist and fights off the Crusaders. Fatimids regain power and force Zengi's forces out the city. Crusaders come again, repeat but Zengi deposed the treacherous Fatimid Vizier. 
+
+1169: Yusuf, Salahuddin nephew to one of Zengi's generals is appointed as Vizier.
+
+**Liberation of Jerusalem:**  
+
+Azhar university converted into traditional Sunni school.
+
+1174: Nur al-Din Zengi passes away, Salahuddin enters Syria and becomes undisputed leader uniting Egypt and Syrian sides.
+
+Crusaders were suffering from internal conflicts and fringe groups such as Knights Templar.
+
+Hashishin (extreme group of Ismaili's) became a thorn in Salahuddin's side with constant assassination attempts.
+
+1187: Battle of Hattin, Salahuddin takes Jerusalem after Crusader king broke peace treaties and harmed pilgrims.
+
+Salahuddin's territory became the Ayyubid dynasty and 20 years after Jerusalem conquer Gengis Khan steps on the scene.
+
+**Mongols:**  
+Central Asian nomads who were experienced warriors and expert horse riders.
+
+Mongols would present their targets 3 options:  
+1. Surrender and join the army
+2. Army resist, if Mongols succeed entire garrison put to death
+3. Army and Civilians resist with promise that both would be completed wiped out when Mongols are successful
+
+No wonder certain regions didn't even bother fighting.
+
+1219: Mongols face and defeat Khwarezmians, the first fight against the Muslims  
+1222: Khwarezmian empire completely destroyed  
+1225: Gengis Khan dies 
+
+1250: Ayyubid dynasty overthrow by its own slave soldiers to become the Mamluk Sultanate in Egypt
+
+1255: 100,000 army gathered by Mongols with aim to wipe out Muslims completely. (Growing Christian influence within the upper echelons of the Mongols)
+
+1256: Hashasin wiped out by Mongols  
+10 Feb 1258: 1 week siege leads to Baghdad being conquered, pillaged and everyone massacred.
+
+1260: Mongols march into Palestine stopped by the Mamluks.
+
+Mongol khan in Russia converts to Islam and becomes ally to the Mamluks.
+
+Ibn Taymiyyah (1263 - 1328) provided response to weakening of faith amongst the masses after loss of caliphate that this was only due to the ruling class not following the correct practice of Islam. Inevitably led to conflict with Mongol and Mamluk leaders leading to his imprisonment and death in Damascus.
 
 ### 8. Andalus
+
+710s: Muslims began entering the Iberian Penisula.
+
+750: Abdurahman 20 year old Umayyad prince escapes Damascus seeking shelter in Andalus amongst the Berbers, having a Berber mother himself.
+
+912 - 961: Abdulrahman III declared himself caliph with Cordoba as the capital. Cordoba became a land of learning and technology.
+
+Taifa Period:
+
+1009: Suleiman II overthrew another Umayyad using Castillians and Berbers to attack Cordoba and declared himself Caliph.
+
+Muslim leaders started fighting each other and even paying Christian leaders to attack other Muslim leaders within the Peninsula. Christian states began flourishing and attacking, stealing land and territory from the Muslims.
+
+Unable to fight back they sought help from the Morrocan Murabbitun movement. 
+
+1026: Yusuf ibn Tashfin crosses Gibraltar with 12,000 soldiers.
+
+Oct 1086: Battle of Zallaqa, decisive victory over Castillians.
+
+1090: Yusuf ibn Tashfin's 3rd entry in Andalus armed with Fatwa from Imam Ghazali that the Taifa kings are unfit to rule. He took control of Andalus with some Muslim kings uniting with Christians to oppose him.
+
+1100s: Iberian Penisula was only 20% Christian population.
+
+1147: Muwahiddun movement attacked Murabbitun and took control of Morocco.
+
+Andalus overthrew the Murabbitun movement as they weakened and stopped gaining military victories. Christian kings took advantage and went on the offensive again.
+
+1212: Popw Innocent III called for a European crusade to attack the Muwahiddun movement.
+
+1228 - 1248: Valencia, Sevilla, Badajoz, Majorca, Murcia, Jaen and others fell due to Christian attack.  
+1236: Cordoba fell to Castillians.
+
+Last part of Muslim Andalus left was Emirate of Granada. Nasrids of Granada managed to hang on by paying tribute and even assisting to defeat other Muslim leaders.
+
+1482: Emir of Granada overthrown by his son.  
+1486: Son captured by Castillians, Father retakes the throne, Son released on agreement to fight for throne becomes Emir again leading to civil war against Uncle. Eventually retires from the civil war allowing Uncle to fight the Castillians.
+
+1490: Granada last muslim city left in the Penisula.
+
+1 January 1492: Granada handed over to the Spanish.
+
+10% of Iberian Penisula was still Muslim, so first they were monetarily incentivised to convert but backfired because people were found to take the payment then found doing Muslim prayers.
+
+1499: Catholic Archbishop appointed to speed up process. He focused on persecution and imprisonment which led to defiance allowed the Monarchs to state it was either conversion or death penalty. 
+
+1502: Islam outlawed in Spain.  
+1502: Fatwa by Mufti of Oran (Algeria), allowed tayammum instead of wudhu and salah to be prayed at night as a substitute for the day.
+Spanish Inquisition:
+
+1511: Halal slaughter was banned.
+1513: Women were banned from covering their face.
+
+1609: All Moriscos (the Spanish Muslims or their descendants who became baptized Christians) exiled from Spain.
+
 ### 9. Edge
+
+
 ### 10. Rebirth
 
 > **Ibn Khaldun:** Dynasties have a natural lifespan. The early years of a dynasty are characterized by expansive growth, a "desert toughness", an ethos of hard work and little desire for worldly luxuries. The second generation of the dynasty continues in the legacy of the founders, but growth slows as leaders begin to place more emphasis on the luxuries of urban palace life than on administration and leadership. By the third generation, the decay of the dynasty is complete as the leaders and viziers are so consumed by luxury and pleasure that the state cannot protect itself from internal or external threats due to the negligence of the rulers. At that point, the cycle begins all over again as a new dynasty rises to replace the old, decrepit one.
