@@ -401,7 +401,48 @@ Spanish Inquisition:
 
 ### 9. Edge
 
+**West Africa:**
 
+First Muslims coming to West Africa were traders crossing the Sahara desert that settled in West Africa, as a result Islam spread slowly amongst the native population sometimes just in name. People would accept Islam but still hold on to previous beliefs.
+
+Mali:
+Founded in 1200s, it is the first native Muslim kingdom with the founder taking on the title Mansa.
+
+1312 - 1337: Mansa Musa, most famous King of Mali known in history. Most of what we know about Mali come from accounts of his Hajj trip in 1324. He departed with 60,000 entourage, 12,000 with him wearing silk and carrying 2kg of gold each. His visit to Egypt ruined the economy for many years because of the sudden influx of precious metals. He realised Mali lacked scholars and knowledge so then began to recruit scholars to come back to Mali to teach.
+
+Mali's knowledge hub founded in Timbuktu and went on to become one of the leading centres of Islamic knowledge in the world such that scholars would have to first go to Morocco to study preliminaries before studying in Timbuktu.
+
+
+**East Africa:**
+
+Islam had been present ever since the time of the Prophet SAW when companions went to Ethiopia. Merchants from Arab Penisula especially Hadramawt settled in East African cities and intermarried with native women. Like West Africa main source of the spread of Islam was commerce. Cities opened their doors to these wealthy merchants and they became integrated in the native culture to the extent Swahili which is a native African language now has many Arabic loanwords.
+
+**African Slavery and The Americas:**
+
+Estimated 3-6 million of the 15-20 million slaves taken to America were Muslim. Their life was one of restriction and subjugation which meant there was difficulty in practising their faith let alone passing on knowledge. By the mid 1800s there were few Muslims left with knowledge of Islam. But a revival came during the 20th Century due to the Nation of Islam, a racial religion combining Islam and Christianity.
+
+1960: Malcolm X former NOI member steered people away from NOI to the mainstream understanding of Islam after his personal experience whilst performing Hajj.
+
+**China:**
+
+~650: Sa'd ibn Abi Waqqas was sent as an ambassador by Uthman ibn Affan
+750s: Tang Dynasty invited Muslims soldiers to join the army, so they settled there married locally etc
+
+Mongol invasion of China led to mass movements of people which led to a massive influx of Muslims into China and they became integrated locally and recognised as the Hui Chinese people.
+
+Most famous Chinese Muslim Zheng He (1371 - 1433) is known as the nations finest explorer. He was given command of a number of ships to make trade journeys and is known for spreading Islam in Malay Archipelago and a number of Mosques are named him where was locally known as Cheng Ho.
+
+**India:**
+
+After Muhammad ibn Qasim's influence in the 700s, Islam was restricted to Sindh and didn't spread much.
+
+First expeditions in to India were by a Turkic Sultan who established him self in the Afghan highlands he laid the foundations of future conquests in India. The succeeding Ghurid dynasty, also ruled out of Afghanistan and they managed to capture Delhi in the year 1192 ironically though they were overturned by their own slave soldiers like the Mamluks who then called themselves the Delhi sultanate. Dehli sultanate ruled over parts of India from 1206 to 1526 when the Mughals arrived. Islam managed to find a foothold in India despite the Muslim population never outnumbering the Hindus particularly because of the Egalitarian nature of Islam which offered an escape from the Hindu caste system as well as Sufi orders being sponsored by the state.
+
+**Southeast Asia:**
+
+The Malay archipelago first experience Islam was due to traders and commerce. Then around the 1100s when local rulers began converting to Islam Muslim empires began to rise and it's through these rulers that the religion spread across the local population. Most of the missionaries tended to come from Yemen which of course led to the school of Fiqh being Imam Shafi's as opposed to India where the Muslims were of a Persian origin and hence them being Hanafi's.
+
+We know from Marco Polo in the 1200s the island of Sumatra had the first Muslim state known as Pasai.
 ### 10. Rebirth
 
 > **Ibn Khaldun:** Dynasties have a natural lifespan. The early years of a dynasty are characterized by expansive growth, a "desert toughness", an ethos of hard work and little desire for worldly luxuries. The second generation of the dynasty continues in the legacy of the founders, but growth slows as leaders begin to place more emphasis on the luxuries of urban palace life than on administration and leadership. By the third generation, the decay of the dynasty is complete as the leaders and viziers are so consumed by luxury and pleasure that the state cannot protect itself from internal or external threats due to the negligence of the rulers. At that point, the cycle begins all over again as a new dynasty rises to replace the old, decrepit one.
