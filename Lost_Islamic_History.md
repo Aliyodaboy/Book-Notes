@@ -93,6 +93,8 @@ He appointed 6 companions to choose his succesor and they chose Uthman RA, an ea
 
 Umar RA's reign saw the Islamic empire go from an Arab power to now a cross-regional power that had jizya agreements and religious diversity throughout it's new lands and an influx of wealth into the Muslim community and lands
 
+<!--- Date needs filing in -->
+<!--- Add hijri dates to this section -->
 Uthman: 644 - 
 
 Appointed his foster brother Abdullah ibn Sa'd as governor of Egypt and Muawiya his cousin was already governor of Syria. Also, appointed some of his other family members into positions in Iraq to continue the raids and conquests against the Persians. Obviously, this led to some accusation of Nepotism but did not seem to gain traction.      
@@ -110,8 +112,9 @@ Slowing military conquests leading less influx of booty and appointment of fello
 > 656: Group of egyptian soldiers came to complain re policies and division of booty between civil government and army. Uthman RA agreed to come up with a solution to settle their issues and sent them back to Egypt. They intercepted a letter on their return allegedly sent by Uthman RA to Egypt ordering their execution. They returned and besieged Uthman RA in his house and established martial law. He refused to let the Madina arm itself against them as to not shed blood in the city of Nabi SAW and refused help from Muawiya in Syria. He was assassinated in his house whilst reciting from a mushaf.
 
 
-Critique: Author states in the preface the goal is to give a general overview of the Islamical Historical Narrative and not for the serious history student, but does not cover major developments during Uthman RA reign such as the canonisation of the Quranic mushaf. Missing this immense achievement especially with it's relation to how the governorship adapted to the expanding of Islam into non-arab populations whilst going into details about certain points e.g. first envoy to China sent in Uthman RA time seems to be very misjudged. Author must be aware of this but chose not to include it so there could be something I am missing.
+Critique: Author states in the preface the goal is to give a general overview of the Islamical Historical Narrative and not for the serious history student, but does not cover major developments during Uthman RA reign such as the canonisation of the Quranic mushaf. Missing this immense achievement especially with it's relation to how the governorship adapted to the expanding of Islam into non-arab populations whilst he chose to go into details about certain points e.g. first envoy to China sent in Uthman RA time seems to be very misjudged. Author must be aware of this but chose not to include it so according to him it might be better for the objective.
 
+<!--- Add dates for Alis cailphate -->
 Ali:
 
 The rebels chose Ali RA to be the next Caliph which he initially refused to accept but after prompting but other senior companions at the time he accepted. Popular sentiment to punish rebels but they still controlled Madina so instead Ali RA transferred the capital to Kufa. Muawiya refused to give bayah until they punished. Talha, Zubair and Aisha went to Kufa to convince Ali RA to take action against the rebels. 
