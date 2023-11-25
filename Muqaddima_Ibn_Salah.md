@@ -27,5 +27,13 @@ Muhaddith Al-Faasil by Ramahurmuzi (360H) is considered the first comprehensive 
 
 The first book that provides an introduction to the science of hadith is معرفة علوم الحديث لأبو عبد الله الحاكم النيسابوري  (405H).
 
-Ibn Salah gathered the information in earlier books and codified it all within his book. His book changed the field, and most if not all books after him are reliant on his book. Hence there are many mukhtasars of his book one of the most famous being Imam Nawawi's (التقريب والتيسير لمعرفة سنن البشير النذير).
+Ibn Salah gathered the information in earlier books and codified it all within his book. His book changed the field, and most if not all books after him are reliant on his book. Hence there are many mukhtasars of his book one of the most famous being Imam Nawawi's (التقريب والتيسير لمعرفة سنن البشير النذير). Annotations (Ibn Hajr, Zarkashi), corrections (إصلاح كتاب ابن الصلاح لمغلطاي) and commentaries are all written on Ibn Salah's book.
+
+Important works with independent research or beneficial points not found elsewhere to use when studying Ibn Salah. 
+1. النكت على كتاب إبن الصلاح لابن حجر
+2. تدريب الراوي في شرح تقريب النواوي - الإمام السيوطي (Awamah Edition 5 volumes with important hashiya)
+3. الموقظة في علم مصطلح الحديث - الإمام الذهبي (with the sharh of Sheikh Hatim)
+(Other books could be added but would make it too much. e.g. Fathul Mugheeth) 
+Why Sheikh Hatim along with these classical imams?
+When Imam Bukhari has not specified what he means when he uses the term Y the only way to infer what he means is to check all or most usages and analyse his usage. This is called الاستقراء which is split into, الاستقراء التام going through and checking every usage and الاستقراء الناقص is analysing a subset of the usages. Scholars in most cases quote previous scholars who have done the reading. Sheikh Hatim has redone the الاستقراء and is able to provide new beneficial points based on his reading.
 
