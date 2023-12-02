@@ -20,12 +20,12 @@
 
 ## Summary
 
-Brief recount covering the main narrative of islamic history from Prophet SAW until formation of the nation states. The author focuses on the *main themes, events and major turning points* in the narrative as well as extracting out insights and patterns.
+Brief recount covering the main narrative of Islamic history from Prophet SAW until the formation of the nation states. The author focuses on the *main themes, _events and _significant_ turning points_* in the narrative and extracts insights and patterns.
 
 ## Chapters
 
 ### 1. Pre-Islamic Arabia
-Political, historical and geographical background to Arabia at that time. Rough life led to rough nomadic people who gathered around wells during the heat then migrate to Yemen for the Autumn. Harsh life and scarcity of resources meant tribal protection and warfare was inevitable. ***Artistic expression is a norm for every culture/civilisation.*** Artistic expression for the Arabs due to their lifestyle was through language the richest form of it being **poetry**. Polytheism was the norm even though they held onto remnants of Ibrahim, Ismail AS (360 idols in Ka'bah).
+Political, historical and geographical background to Arabia at that time was of a rough life that led to rough nomadic people who gathered around wells during the heat then migrate to Yemen for the Autumn. Harsh life and scarcity of resources meant tribal protection and warfare was inevitable. ***Artistic expression is a norm for every culture/civilisation.*** Artistic expression for the Arabs due to their lifestyle was through language the richest form of it being **poetry**. Polytheism was the norm even though they held onto remnants of Ibrahim, Ismail AS (360 idols in Ka'bah).
 
 Isolated and wedged between Roman empire in the north west, the Persian Sassanid empire in the north east and the Aksum Abyssinian empire in the south. But were left alone as the land was not seen to be worth conquering.
 
@@ -33,16 +33,16 @@ Isolated and wedged between Roman empire in the north west, the Persian Sassanid
 
 ### 2. Prophet SAW Life
 
-His father Abdullah died in Madinah before his birth in 570 CE in Makkah. His mother Aminah passed away 576, grandfather Abdul Muttalib passed away 578 and was in care of his fathers brother Abu Talib. Abu Talib brought him up as a trader and he was know as Al-Amin and As-Siddiq due to his honesty in dealings. At 25 whilst doing trade for Khadija she proposed marriage to him and he accepted despite a big age difference between them.
+His father Abdullah died in Madinah before his birth in 570 CE in Makkah. His mother Aminah passed away 576, grandfather Abdul Muttalib passed away 578 and was in care of his fathers brother Abu Talib. Abu Talib brought him up as a trader and he was know as Al-Amin and As-Siddiq due to his honesty in dealings. At 25 whilst doing trade for Khadija she proposed marriage to him and he accepted despite a large age difference between them.
 
-Wahi started 610 in cave hira with Jibreel AS revealing the first 5 verses of Surah Alaq. Famous story of him coming to Khadija RA (Zammilooni Zammilooni), her sending Ali RA to do mashwara with Waraqa ibn Nawfal. Close friends and family were invited to islam. After the muslim population reached a critical mass Quraysh persecution and chastisement began, the slaves feeling the real brunt of it. Ja'far RA and others were sent to Abyssinia to seek refuge under Najashi. 
+Wahi began 610 in cave hira with Jibreel AS revealing the first 5 verses of Surah Alaq. Famous story of him coming to Khadija RA (Zammilooni Zammilooni), her sending Ali RA to do mashwara with Waraqa ibn Nawfal. Close friends and family were invited to islam. After the muslim population reached a critical mass Quraysh persecution and chastisement began, the slaves feeling the real brunt of it. Ja'far RA and others were sent to Abyssinia to seek refuge under Najashi. 
 
 617: All out boycott of Banu Hashim  
 619: عام الحزن Khadija RA passes away then Abu Talib passes away  
 
 Nabi SAW goes to Ta'if as situation worsens in Makkah, Nabi SAW rejected by 3 brothers who led tribe and stoned by children on his departure. Famous story about Jibreel AS coming and asking if he would like Ta'if destroyed and crushed between 2 mountains. 
 
-620: Delegation come from Madinah  
+620: Delegation comes from Madinah  
 622: Prophet SAW migrates
 
 Madina consisted of Aws, Khazraj and Jewish tribes who were waiting for a messenger. Constitution of Madina took place as more people accepted Islam, stipulating Nabi SAW as the ultimate arbitrator, political authority and placing Madina as an Islamic state.
@@ -66,7 +66,7 @@ Umar RA suggested the Quran should be preserved on to physical means, Abu Bakr R
 
 Umar: 634 - 644 (till his death RA)
 
-Officially Appointed by Abu Bakr RA while on his deathbed, inherited a politically stable state which had gained confidence militarily. Continued the raids that began before him which led to permanent conquests especially due to the Byzantine-Sassanid war (603 - 628) leaving the respective powers weaker. 
+Officially Appointed by Abu Bakr RA while on his deathbed, he inherited a politically stable state which had gained confidence militarily. He continued the raids that began before him which led to permanent conquests especially due to the Byzantine-Sassanid war (603 - 628) leaving the respective powers weaker. 
 
 633: Armies sent to Syria and Mesopotamia (area surrounding the Euphrates, mainly modern day Iraq)
 635: Khalid and army took Damascus
@@ -91,15 +91,14 @@ Officially Appointed by Abu Bakr RA while on his deathbed, inherited a political
 
 He appointed 6 companions to choose his succesor and they chose Uthman RA, an early convert and a person from the ruling tribe of Umayyads.
 
-Umar RA's reign saw the Islamic empire go from an Arab power to now a cross-regional power that had jizya agreements and religious diversity throughout it's new lands and an influx of wealth into the Muslim community and lands
+Umar RA's reign saw the Islamic empire go from an Arab power to a cross-regional power that had jizya agreements and religious diversity throughout its new lands and an influx of wealth into the Muslim community and lands
 
-<!--- Date needs filing in -->
 <!--- Add hijri dates to this section -->
-Uthman: 644 - 
+Uthman: 644 - 656
 
-Appointed his foster brother Abdullah ibn Sa'd as governor of Egypt and Muawiya his cousin was already governor of Syria. Also, appointed some of his other family members into positions in Iraq to continue the raids and conquests against the Persians. Obviously, this led to some accusation of Nepotism but did not seem to gain traction.      
+Appointed his foster brother Abdullah ibn Sa'd as governor of Egypt and Muawiya his cousin was already governor of Syria. He also appointed some of his other family members into positions in Iraq to continue the raids and conquests against the Persians. Obviously, this led to some accusation of Nepotism but they did not seem to gain traction.
 
-First naval fleet commissioned. Byzantine fleet in 646 were defeated by Christian sailors employed by Muslim state. A clear statement to the preferred treatmenet under Muslim rule than previous Byzantine rule.
+First naval fleet was commissioned. Byzantine fleet in 646 was defeated by Christian sailors employed by the Muslim state. A clear statement of the preferred treatment under Muslim rule than previous Byzantine rule.
 
 Muawiya led Syrian army into Armenia against the Byzantines.
 Abdullah ibn Aamir led army into Persian lands.
@@ -111,13 +110,11 @@ Slowing military conquests leading less influx of booty and appointment of fello
 
 > 656: Group of egyptian soldiers came to complain re policies and division of booty between civil government and army. Uthman RA agreed to come up with a solution to settle their issues and sent them back to Egypt. They intercepted a letter on their return allegedly sent by Uthman RA to Egypt ordering their execution. They returned and besieged Uthman RA in his house and established martial law. He refused to let the Madina arm itself against them as to not shed blood in the city of Nabi SAW and refused help from Muawiya in Syria. He was assassinated in his house whilst reciting from a mushaf.
 
+Critique: Author states in the preface the goal is to give a general overview of the Islamical Historical Narrative and not for the serious history student, but does not cover significant developments during Uthman RA reign such as the canonisation of the Quranic mushaf. Missing this immense achievement especially with it's relation to how the governorship adapted to the expanding of Islam into non-arab populations whilst he chose to go into details about specific points e.g. first envoy to China sent in Uthman RA time seems to be wildly misjudged. Author must be aware of this but chose not to include it so according to him it might be better for the objective. Seems like his objective was to cover points either people are not aware of or those things which are more related to the development of the empire as opposed to the deen itself. Allah knows best.
 
-Critique: Author states in the preface the goal is to give a general overview of the Islamical Historical Narrative and not for the serious history student, but does not cover major developments during Uthman RA reign such as the canonisation of the Quranic mushaf. Missing this immense achievement especially with it's relation to how the governorship adapted to the expanding of Islam into non-arab populations whilst he chose to go into details about certain points e.g. first envoy to China sent in Uthman RA time seems to be very misjudged. Author must be aware of this but chose not to include it so according to him it might be better for the objective.
+Ali: 656 - 661
 
-<!--- Add dates for Alis cailphate -->
-Ali:
-
-The rebels chose Ali RA to be the next Caliph which he initially refused to accept but after prompting but other senior companions at the time he accepted. Popular sentiment to punish rebels but they still controlled Madina so instead Ali RA transferred the capital to Kufa. Muawiya refused to give bayah until they punished. Talha, Zubair and Aisha went to Kufa to convince Ali RA to take action against the rebels. 
+The rebels chose Ali RA to be the next Caliph which he initially refused to accept but after prompting by other senior companions at the time he accepted it. Popular sentiment to punish rebels but they still controlled Madina so instead Ali RA transferred the capital to Kufa. Muawiya refused to give bayah until they punished. Talha, Zubair and Aisha went to Kufa to convince Ali RA to take action against the rebels. 
 
 656: Battle of the camel
 > Talha and Zubair both martyred. Aisha RA escorted with military guards back to Madina and stayed away from politics till her passing away in 678.
@@ -129,24 +126,24 @@ Naturally caliphate rule fell the biggest authority left, Muawiya RA
 
 ### 4. Establishment of the Islamic State
 
-Umayyad: 661 - 750
+Umayyad Rule: 661 - 750
 
 661 - 680: Muawiya RA  
 Initial deal with Hasan RA that he would give up any claims of caliphate and spend his days as a scholar and worshipper. The role and style of a Caliph changed with Muawiya to resemble the Kings/Emperors of other nations and change to a Monarchy system of succession.
 
 670 - 680: Uqba ibn Nafi RA campaigned throughout North Africa especially through Berber lands weakening the Byzantines further  
-674 - 678: Attempt to siege Constantinople failed, and Abu Ayyub Al-Ansari martyred and buried near the wall.
+674 - 678: Attempt to siege Constantinople failed, and Abu Ayyub Al-Ansari was martyred and buried near the wall.
 
-Controversially appointed his son Yazid as successor well before his own death and demanded bayah from other regional leaders. 
+He controversially appointed his son Yazid as his successor well before his death and demanded bayah from other regional leaders. 
 
 Yazid faced allegations of a life unbefitting of a Caliph, accusations of Alcohol, singing girls and other luxuries were levied. 
 
-Husain RA given promises by people of Kufa to support him against Yazid so decided to migrate to Kufa against the warning of Abdullah ibn Zubair that the Kufans would not truly support him. When Yazid sent his governor to Kufa to stamp out opposition the Kufans abadoned their support for Husain before he arrived.  
+Husain RA given promises by people of Kufa to support him against Yazid so decided to migrate to Kufa against the warning of Abdullah ibn Zubair that the Kufans would not truly support him. When Yazid sent his governor to Kufa to stamp out the opposition the Kufans abandoned their support for Husain before he arrived.  
 Battle of Karbala: Husain RA surrounded and killed by Yazid's forces  
 680: Abdullah ibn Zubair declares revolt against Yazid   
 683: Yazid passes away
 
-Rebellion still continuing all over the caliphate  
+Rebellion still continued all over the caliphate  
 683 - 634: Mu'awiya ibn Yazid  
 684 - 685: Marwan  
 685 - 705: Abd al-Malik ibn Marwan  
@@ -160,49 +157,49 @@ Rebellion still continuing all over the caliphate
 
 **Moving on India:**
 
-Trade vessel was attacked near Sindh and King of Sindh refused to return muslim captives.  
-711: Muhammad ibn Qasim sent with 6k soldiers and established muslim rule in Sindh  
+Trade vessel was attacked near Sindh and King of Sindh refused to return Muslim captives.  
+711: Muhammad ibn Qasim sent with 6k soldiers and established Muslim rule in Sindh  
 
 > Mid 700s estiamted muslim population of the empire was only 10%.   
 > Largest empire in the world in just after 100 years 
 
 
-Fall of the Umayyads
+**Fall of the Umayyads**
 
 Jizya made it more favourable for new citizens to convert but that also reduces income for governorship so a policy that new converts still have to pay jizya was instated. Unfavourable for all non-arabs because they were all the new converts which led to a non-arabs having a foul view of the Umayyads.
 
 712 - 720: Umar bin Abdul Aziz (known as 5th rightly guided caliph) took power and worked to undo the Unislamic policies of the Umayyads. His own clan/family were not pleased with him and poisoned him. 
 
-Abbasid:
-
+**Abbasid:**
 Named after lineage of Abbas, Uncle to the Prophet SAW.
 Initial rumour that a descendant of Ali RA had passed the baton of leadership to the lineage of Abbas.
 
 730 - 740s: Initial agreements and pledges of allegiance  
-747: Abassids declared Oh testing 123 declared the official open revolt led by a mysterious figure code Abu muslim  
-Official military fight against the Umayyads began and Khurasan was taken. Kufa rebelled against its governor   
+747: Abassids declared Oh testing 123 declared the official open revolt led by a mysterious figure code Abu Muslim
+
+Official military fight against the Umayyads began and Khurasan was taken. Kufa rebelled against its governor.
 750: Abassids Army completely defeat the Umayyads  
 Members of the family were hunted and executed and Marwan was captured in Egypt. One of the family escaped to Andrews which is where an Umayyad emirate would last for almost 300 years separate to the Abassids.  
 765: Capital established in Baghdad which became the largest city in the world with over 1 million residents
 
 ### 5. Golden Age of Islam
 
-Bayt ul Hikmah:  
+**Bayt ul Hikmah:**  
 813 - 833: 7th Abassid Caliph Al Ma'mun put heavy emphasis on intellectual development  
 Pros:
 1. 1st time ever scholars could gather in one place to focus, discuss and develop various sciences. 
 2. Arabic being a universal language for muslim intellectuals allowed scholars from various regions to cooperate.
 
-Mathematics:  
+**Mathematics:** 
 780 - 850: Kharizmi 
- - Adopted the indian numeral system
+ - Adopted the Indian numeral system
  - Developed algebra 
 
 1048 - 1131: Omar Khayyam
  - Method for solving cubic equations
  - Binomial Theorem
 
-Medicine:  
+**Medicine:** 
 
 Muhammad ibn Zakaria al-Razi: Refuted Galen to argue that medical ailments can be traced to a physical cause.
 
@@ -211,19 +208,19 @@ Ibn Sina: Wrote The Canon of Medicine which was still used in the 17th Century.
  - Proposed that drugs should be tested in controlled settings.
  - Categorised diseases and how they spread.
 
-Astronomy:  
+**Astronomy:**  
 Al-Biruni:
-- First proposed that the Earth may spin on it's own axis
+- First proposed that the Earth may spin on its own axis
 
 Muslim scholars further expanded the Astrolabe to help calculate prayer times and aid navigation on journeys.
 
-Geography:
+**Geography:**
 
 Abassid scholars calculated the earths circumference and diameter and were only off by 30-ish kilometres using only trigonometry and circle geometry.
 
 Muhammad al-Idrissi in 12th Century Sicily created a world map unrivalled inaccuracy in detail which was used for hundreds of years afterwards and records an account of Muslim sailors who ventured 31 days across the Atlantic Ocean and arrived at Unknown piece of land, most likely the Americas.
 
-Physics:
+**Physics:**
 
 Al-Haytham wrote a book called the book of optics which argued that light was composed of rays travelling straight lines and built the Camera Obscura to prove his theory leading to the development of a camera 1000 years later. He also calculated the depth of the earths atmosphere which was only verified once spacecraft left the Earth and was also the founder and developer of the scientific method.
 
@@ -242,20 +239,20 @@ Development of 4 madhabs and their relevant frameworks (usul).
 - Qiyas
 - Actions of people of Madina etc   
 
-Aqeedah: 
-Khawarij first to engage in order to prove their position that sinners are disbelievers.  
+**Aqeedah:** 
+Khawarij first to engage to prove their position that sinners are disbelievers.  
 Mu'tazila came next with their incorrect usage of logic and gained backing especially by Al-Mamun which led to famous conflict with Imam Ahmad.
 Abu'l Hasan Al-Ashari and Abu Mansur Al-Maturidi step on to the scene with their refutations of both the incorrect Mu'tazali application of logic and also the extreme aversion to rational discourse of faith by Imam Ahmad. 
 Leads to the development of the 3 sunni schools that are around today, Ashari, Maturidi and Athari schools.
 
-Tasawwuf:   
+**Tasawwuf:**   
 Science of spirituality which became canonised from 12th - 15th Centuries by figures such as Abdul Qadir Al-Jilani, Mohinuddin Chisti, Ibn Arabi and Abul Hasan Ash-shadhili into their respective turuq (paths). Each sheikh of the tariqa would have mureeds that they would certify when ready to take on their own mureeds to continue the tariqa.
 
-Shi'ism:
+**Shi'ism:**
 
 Originally stemmed as a political group who believed Ali RA should have been caliph instead of Abu Bakr. That position led them to hold the caliphs before Ali RA and those that supported them to be usurpers which led them to not trust their hadiths. They rejected the concept of Caliphate and replaced it with Imamate where each imam a descendant of the Prophet is chosen and is God's infallible representative on Earth.
 
-Main branch is Twelver Shi'ism that believes there are 12 imams after the Prophet ending with Imam Muhahammad al-Mahdi in 874 when he went into hiding at 5 years old. Began the period of Minor Occultation where special  representatives were able to communicate with him and receive guidance for the community but in 941 it was announced that the imam went into Major Occultation and communication with him became impossible.
+Main branch is Twelver Shi'ism that believes there are 12 imams after the Prophet ending with Imam Muhahammad al-Mahdi in 874 when he went into hiding at 5 years old. Began the period of Minor Occultation where special representatives were able to communicate with him and receive guidance for the community but in 941 it was announced that the imam went into Major Occultation and communication with him became impossible.
 
 Who would only return toward the end of times. Alongside the Twelvers are the Seveners and the Zaydis who believe in 5 imams.
 
@@ -263,33 +260,32 @@ It would only become a major force in the 1500s with the rise of Safavids.
 
 ### 7. Upheaval
 
-Ismail'ism:  
+**Ismail'ism:** 
 The Seveners became known as the Ismailis who were much more politically active than Twelvers and spread missionaries throughout major cities in the Muslim world to garner support. They were popular among lower classes and non-Arabs who resented an Arab rule and traditional bedouins who always hated central authority.
 
-903: Unexpectedly captured Damascus undefeated domestic army Back out just two years later  
+903: Unexpectedly captured Damascus's undefeated domestic army then forced back out into Arabian desert just two years later  
 906: Massacred 20,000 people travelling to Mecca for the pilgrimage  
 928: Attacked Mecca massacred his population and stole the black stone from the Ka'bah moving it to Bahrain where it remained till 952
        
 But they never became a real threat until another Ismaili movement rose on the backs of Berbers to become regional power.  
 
 Fatimids:  
-The missionaries built up support from amongst North Africa where they declared the reappearance of a leader who claimed to be a descendent of Ali and Fatima leading to the name Fatimids. They quickly gained control of western North Africa.
+The missionaries built up support from North Africa where they declared the reappearance of a leader who claimed to be a descendent of Ali and Fatima leading to the name Fatimids. They quickly gained control of western North Africa.
 
-969: Conquered Egypt, founded the city of Cairo alongisde the banks of the Nile  
+969: Conquered Egypt, founded the city of Cairo along the banks of the Nile  
 970: Al-Azhar university was established to spread Ismaili thought and belief
 
-TODO Mad King Al-Hakim
+**TODO Mad King Al-Hakim**
 
 Finally defeated by Salahuddin Al-Ayyubi during the crusades.
 
-**Crusades:**  
-200 years Conflict starting in 1095 centred around the city of Jerusalem.
+**Crusades:** The 200-year conflict started in 1095 and centred around the city of Jerusalem.
 
 Background
 1037: Seljuk Empire established from turkish nomadic warriors that accepted Islam and moved from Central Asia. Began expanding territory and continuing to threaten the Byzantines.
-1095: Byzantine emperor writes letter to Pope Urban II in Rome requesting aid from fellow Christian kingdom. Pope decided to mobilise army instead to take back Jerusalem that was holy for Christians and had been under Muslim rule since Umar. 30,000 strong army marched towards Jerusalem.
+1095: Byzantine emperor writes letter to Pope Urban II in Rome requesting aid from fellow Christian kingdom. Pope decided to mobilise the army instead to take back Jerusalem that was holy for Christians and had been under Muslim rule since Umar. 30,000 strong army marched towards Jerusalem.
 
-1097: Siege of Antioch, the population put to sword
+1097: Siege of Antioch, the population put to the sword
 > Turkish emirs at that point had become involved in petty rivalry no one came to the aid of Antioch when they requested help. Other Muslim leaders knowing the army's ultimate goal was Jerusalem gave them food, arms and passage to save themselves.
 
 1099: Army reached the walls Jerusalem, 1 week siege leading to Crusaders entering the city on 15 July 1099 and civilians being put to death.
@@ -308,7 +304,7 @@ Crusaders were unchallenged due to the inability of the Muslim world at the time
 
 **Liberation of Jerusalem:**  
 
-Azhar university converted into traditional Sunni school.
+Azhar university converted into a traditional Sunni school.
 
 1174: Nur al-Din Zengi passes away, Salahuddin enters Syria and becomes undisputed leader uniting Egypt and Syrian sides.
 
@@ -345,7 +341,7 @@ No wonder certain regions didn't even bother fighting.
 
 Mongol khan in Russia converts to Islam and becomes ally to the Mamluks.
 
-Ibn Taymiyyah (1263 - 1328) provided response to weakening of faith amongst the masses after loss of caliphate that this was only due to the ruling class not following the correct practice of Islam. Inevitably led to conflict with Mongol and Mamluk leaders leading to his imprisonment and death in Damascus.
+Ibn Taymiyyah (1263 - 1328) provided response to weakening of faith amongst the masses after loss of caliphate that this was only due to the ruling class not following the correct practice of Islam. It inevitably led to conflict with Mongol and Mamluk leaders leading to his imprisonment and death in Damascus.
 
 ### 8. Andalus
 
@@ -355,7 +351,7 @@ Ibn Taymiyyah (1263 - 1328) provided response to weakening of faith amongst the 
 
 912 - 961: Abdulrahman III declared himself caliph with Cordoba as the capital. Cordoba became a land of learning and technology.
 
-Taifa Period:
+**Taifa Period:**
 
 1009: Suleiman II overthrew another Umayyad using Castillians and Berbers to attack Cordoba and declared himself Caliph.
 
@@ -375,14 +371,14 @@ Oct 1086: Battle of Zallaqa, decisive victory over Castillians.
 
 Andalus overthrew the Murabbitun movement as they weakened and stopped gaining military victories. Christian kings took advantage and went on the offensive again.
 
-1212: Popw Innocent III called for a European crusade to attack the Muwahiddun movement.
+1212: Pope Innocent III called for a European crusade to attack the Muwahiddun movement.
 
 1228 - 1248: Valencia, Sevilla, Badajoz, Majorca, Murcia, Jaen and others fell due to Christian attack.  
 1236: Cordoba fell to Castillians.
 
-Last part of Muslim Andalus left was Emirate of Granada. Nasrids of Granada managed to hang on by paying tribute and even assisting to defeat other Muslim leaders.
+Last part of Muslim Andalus left was the Emirate of Granada. Nasrids of Granada managed to hang on by paying tribute and even assisting in defeating other Muslim leaders.
 
-1482: Emir of Granada overthrown by his son.  
+1482: The Emir of Granada overthrown by his son.  
 1486: Son captured by Castillians, Father retakes the throne, Son released on agreement to fight for throne becomes Emir again leading to civil war against Uncle. Eventually retires from the civil war allowing Uncle to fight the Castillians.
 
 1490: Granada last muslim city left in the Penisula.
@@ -395,7 +391,8 @@ Last part of Muslim Andalus left was Emirate of Granada. Nasrids of Granada mana
 
 1502: Islam outlawed in Spain.  
 1502: Fatwa by Mufti of Oran (Algeria), allowed tayammum instead of wudhu and salah to be prayed at night as a substitute for the day.
-Spanish Inquisition:
+
+**Spanish Inquisition:**
 
 1511: Halal slaughter was banned.
 1513: Women were banned from covering their face.
@@ -408,7 +405,7 @@ Spanish Inquisition:
 
 First Muslims coming to West Africa were traders crossing the Sahara desert that settled in West Africa, as a result Islam spread slowly amongst the native population sometimes just in name. People would accept Islam but still hold on to previous beliefs.
 
-Mali:
+**Mali:**
 Founded in 1200s, it is the first native Muslim kingdom with the founder taking on the title Mansa.
 
 1312 - 1337: Mansa Musa, most famous King of Mali known in history. Most of what we know about Mali come from accounts of his Hajj trip in 1324. He departed with 60,000 entourage, 12,000 with him wearing silk and carrying 2kg of gold each. His visit to Egypt ruined the economy for many years because of the sudden influx of precious metals. He realised Mali lacked scholars and knowledge so then began to recruit scholars to come back to Mali to teach.
@@ -478,7 +475,7 @@ Aurangzeb was the culmination of the trend of reverting back to orthodoxy and he
 
 1699: Treaty of Karlowitz  - post 14 year battle Ottomans forced to concede land for the first time ever. Ottoman sultan was forced by the treaty to recognize and protect Christians in the empire. (A theme which would continue in subsequent treaties as Ottomans weakened further.)
 
-"Ottomans reached their natural maximum size" - Personally think this is isn't an accurate statement the maximum size of an empire is dictated by parameters which change with time and it just so happened the policies were not in accordance to the size of the empire at the time. 
+"Ottomans reached their natural maximum size" - Personally think this isn't an accurate statement the maximum size of an empire is dictated by parameters which change with time and it just so happened the policies were not in accordance to the size of the empire at the time. 
 
 Key Factors:
  - Late 1500s Sultans stopped going to battle
@@ -510,7 +507,7 @@ Central Asia, Russia focused on taking the Turkish lands which triggered the Bri
 
 East Asia, Dutch East India Company spread through the Malay Archipelago just like the British East India Company leading to Dutch empire that lasted even after 2nd World War.
 
-1914 1st World war, most of the muslims were under foreign rule. 
+1914 1st World war, most of the Muslims were under foreign rule. 
 
 ### 12. Old and New Ideas
 
