@@ -27,7 +27,7 @@ Brief recount covering the main narrative of Islamic history from Prophet SAW un
 ### 1. Pre-Islamic Arabia
 Political, historical and geographical background to Arabia at that time was of a rough life that led to rough nomadic people who gathered around wells during the heat then migrate to Yemen for the Autumn. Harsh life and scarcity of resources meant tribal protection and warfare was inevitable. ***Artistic expression is a norm for every culture/civilisation.*** Artistic expression for the Arabs due to their lifestyle was through language the richest form of it being **poetry**. Polytheism was the norm even though they held onto remnants of Ibrahim, Ismail AS (360 idols in Ka'bah).
 
-Isolated and wedged between Roman empire in the north west, the Persian Sassanid empire in the north east and the Aksum Abyssinian empire in the south. But were left alone as the land was not seen to be worth conquering.
+Isolated and wedged between Roman empire in the north west, the Persian Sassanid empire in the northeast and the Aksum Abyssinian empire in the south. But were left alone as the land was not seen to be worth conquering.
 
 >***All these factors allowed Islam to spread as it did throughout Arabia.***
 
@@ -89,7 +89,7 @@ Officially Appointed by Abu Bakr RA while on his deathbed, he inherited a politi
 
 644: Assassinated by Persian slave whilst leading salah, slave hid behind minbar and stabbed him.
 
-He appointed 6 companions to choose his succesor and they chose Uthman RA, an early convert and a person from the ruling tribe of Umayyads.
+He appointed 6 companions to choose his successor and they chose Uthman RA, an early convert and a person from the ruling tribe of Umayyads.
 
 Umar RA's reign saw the Islamic empire go from an Arab power to a cross-regional power that had jizya agreements and religious diversity throughout its new lands and an influx of wealth into the Muslim community and lands
 
@@ -110,7 +110,7 @@ Slowing military conquests leading less influx of booty and appointment of fello
 
 > 656: Group of egyptian soldiers came to complain re policies and division of booty between civil government and army. Uthman RA agreed to come up with a solution to settle their issues and sent them back to Egypt. They intercepted a letter on their return allegedly sent by Uthman RA to Egypt ordering their execution. They returned and besieged Uthman RA in his house and established martial law. He refused to let the Madina arm itself against them as to not shed blood in the city of Nabi SAW and refused help from Muawiya in Syria. He was assassinated in his house whilst reciting from a mushaf.
 
-Critique: Author states in the preface the goal is to give a general overview of the Islamical Historical Narrative and not for the serious history student, but does not cover significant developments during Uthman RA reign such as the canonisation of the Quranic mushaf. Missing this immense achievement especially with it's relation to how the governorship adapted to the expanding of Islam into non-arab populations whilst he chose to go into details about specific points e.g. first envoy to China sent in Uthman RA time seems to be wildly misjudged. Author must be aware of this but chose not to include it so according to him it might be better for the objective. Seems like his objective was to cover points either people are not aware of or those things which are more related to the development of the empire as opposed to the deen itself. Allah knows best.
+Critique: Author states in the preface the goal is to give a general overview of the Islamic Historical Narrative and not for the serious history student, but does not cover significant developments during Uthman RA reign such as the canonisation of the Quranic mushaf. Missing this immense achievement especially with it's relation to how the governorship adapted to the expanding of Islam into non-arab populations whilst he chose to go into details about specific points e.g. first envoy to China sent in Uthman RA time seems to be wildly misjudged. Author must be aware of this but chose not to include it so according to him it might be better for the objective. Seems like his objective was to cover points either people are not aware of or those things which are more related to the development of the empire as opposed to the deen itself. Allah knows best.
 
 Ali: 656 - 661
 
@@ -166,7 +166,7 @@ Trade vessel was attacked near Sindh and King of Sindh refused to return Muslim 
 
 **Fall of the Umayyads**
 
-Jizya made it more favourable for new citizens to convert but that also reduces income for governorship so a policy that new converts still have to pay jizya was instated. Unfavourable for all non-arabs because they were all the new converts which led to a non-arabs having a foul view of the Umayyads.
+Jizya made it more favourable for new citizens to convert but that also reduces income for governorship so a policy that new converts still had to pay jizya was instated. Unfavourable for all non-arabs because they were all the new converts which led to a non-arabs having a foul view of the Umayyads.
 
 712 - 720: Umar bin Abdul Aziz (known as 5th rightly guided caliph) took power and worked to undo the Unislamic policies of the Umayyads. His own clan/family were not pleased with him and poisoned him. 
 
@@ -178,14 +178,14 @@ Initial rumour that a descendant of Ali RA had passed the baton of leadership to
 747: Abassids declared Oh testing 123 declared the official open revolt led by a mysterious figure code Abu Muslim
 
 Official military fight against the Umayyads began and Khurasan was taken. Kufa rebelled against its governor.
-750: Abassids Army completely defeat the Umayyads  
-Members of the family were hunted and executed and Marwan was captured in Egypt. One of the family escaped to Andrews which is where an Umayyad emirate would last for almost 300 years separate to the Abassids.  
+750: Abbasids Army completely defeated the Umayyads  
+Members of the family were hunted and executed and Marwan was captured in Egypt. One of the family escaped to Andrews which is where an Umayyad emirate would last for almost 300 years separate to the Abbasids.  
 765: Capital established in Baghdad which became the largest city in the world with over 1 million residents
 
 ### 5. Golden Age of Islam
 
 **Bayt ul Hikmah:**  
-813 - 833: 7th Abassid Caliph Al Ma'mun put heavy emphasis on intellectual development  
+813 - 833: 7th Abbasid Caliph Al Ma'mun put heavy emphasis on intellectual development  
 Pros:
 1. 1st time ever scholars could gather in one place to focus, discuss and develop various sciences. 
 2. Arabic being a universal language for muslim intellectuals allowed scholars from various regions to cooperate.
@@ -216,13 +216,13 @@ Muslim scholars further expanded the Astrolabe to help calculate prayer times an
 
 **Geography:**
 
-Abassid scholars calculated the earths circumference and diameter and were only off by 30-ish kilometres using only trigonometry and circle geometry.
+Abbasid scholars calculated the earths circumference and diameter and were only off by 30-ish kilometres using only trigonometry and circle geometry.
 
 Muhammad al-Idrissi in 12th Century Sicily created a world map unrivalled inaccuracy in detail which was used for hundreds of years afterwards and records an account of Muslim sailors who ventured 31 days across the Atlantic Ocean and arrived at Unknown piece of land, most likely the Americas.
 
 **Physics:**
 
-Al-Haytham wrote a book called the book of optics which argued that light was composed of rays travelling straight lines and built the Camera Obscura to prove his theory leading to the development of a camera 1000 years later. He also calculated the depth of the earths atmosphere which was only verified once spacecraft left the Earth and was also the founder and developer of the scientific method.
+Al-Haytham wrote a book called the book of Optics which argued that light was composed of rays travelling straight lines and built the Camera Obscura to prove his theory leading to the development of a camera 1000 years later. He also calculated the depth of the earth's atmosphere which was only verified once spacecraft left the Earth and was also the founder and developer of the scientific method.
 
 Al-Jazari in the 12th century was known for designing and building automatic machines such as clocks, music robots and hand washing machines powered by water.
 
@@ -242,7 +242,7 @@ Development of 4 madhabs and their relevant frameworks (usul).
 **Aqeedah:** 
 Khawarij first to engage to prove their position that sinners are disbelievers.  
 Mu'tazila came next with their incorrect usage of logic and gained backing especially by Al-Mamun which led to famous conflict with Imam Ahmad.
-Abu'l Hasan Al-Ashari and Abu Mansur Al-Maturidi step on to the scene with their refutations of both the incorrect Mu'tazali application of logic and also the extreme aversion to rational discourse of faith by Imam Ahmad. 
+Abu'l Hasan Al-Ashari and Abu Mansur Al-Maturidi step onto the scene with their refutations of both the incorrect Mu'tazali application of logic and also the extreme aversion to rational discourse of faith by Imam Ahmad. 
 Leads to the development of the 3 sunni schools that are around today, Ashari, Maturidi and Athari schools.
 
 **Tasawwuf:**   
@@ -288,7 +288,7 @@ Background
 1097: Siege of Antioch, the population put to the sword
 > Turkish emirs at that point had become involved in petty rivalry no one came to the aid of Antioch when they requested help. Other Muslim leaders knowing the army's ultimate goal was Jerusalem gave them food, arms and passage to save themselves.
 
-1099: Army reached the walls Jerusalem, 1 week siege leading to Crusaders entering the city on 15 July 1099 and civilians being put to death.
+1099: Army reached the walls Jerusalem, with 1 week siege leading to Crusaders entering the city on 15 July 1099 and civilians being put to death.
 > Muslim world was obviously hit hard by the loss of the 3rd holiest site, Fatimids tried to back the city but failed. The Turks were indulged in civil war and the Abassids were just a name the muslims were in no position to fight back. 
 
 Crusaders were unchallenged due to the inability of the Muslim world at the time to respond so fortified their power along Syrian and Palestine coast leading to 4 Crusader kingdoms.
@@ -353,7 +353,7 @@ Ibn Taymiyyah (1263 - 1328) provided response to weakening of faith amongst the 
 
 **Taifa Period:**
 
-1009: Suleiman II overthrew another Umayyad using Castillians and Berbers to attack Cordoba and declared himself Caliph.
+1009: Suleiman II overthrew another Umayyad using Castilians and Berbers to attack Cordoba and declared himself Caliph.
 
 Muslim leaders started fighting each other and even paying Christian leaders to attack other Muslim leaders within the Peninsula. Christian states began flourishing and attacking, stealing land and territory from the Muslims.
 
@@ -419,7 +419,7 @@ Islam had been present ever since the time of the Prophet SAW when companions we
 
 **African Slavery and The Americas:**
 
-Estimated 3-6 million of the 15-20 million slaves taken to America were Muslim. Their life was one of restriction and subjugation which meant there was difficulty in practising their faith let alone passing on knowledge. By the mid 1800s there were few Muslims left with knowledge of Islam. But a revival came during the 20th Century due to the Nation of Islam, a racial religion combining Islam and Christianity.
+Estimated 3-6 million of the 15-20 million slaves taken to America were Muslim. Their life was one of restriction and subjugation which meant there was difficulty in practicing their faith let alone passing on knowledge. By the mid 1800s there were few Muslims left with knowledge of Islam. But a revival came during the 20th Century due to the Nation of Islam, a racial religion combining Islam and Christianity.
 
 1960: Malcolm X former NOI member steered people away from NOI to the mainstream understanding of Islam after his personal experience whilst performing Hajj.
 
@@ -436,7 +436,7 @@ Most famous Chinese Muslim Zheng He (1371 - 1433) is known as the nations finest
 
 After Muhammad ibn Qasim's influence in the 700s, Islam was restricted to Sindh and didn't spread much.
 
-First expeditions in to India were by a Turkic Sultan who established him self in the Afghan highlands he laid the foundations of future conquests in India. The succeeding Ghurid dynasty, also ruled out of Afghanistan and they managed to capture Delhi in the year 1192 ironically though they were overturned by their own slave soldiers like the Mamluks who then called themselves the Delhi sultanate. Dehli sultanate ruled over parts of India from 1206 to 1526 when the Mughals arrived. Islam managed to find a foothold in India despite the Muslim population never outnumbering the Hindus particularly because of the Egalitarian nature of Islam which offered an escape from the Hindu caste system as well as Sufi orders being sponsored by the state.
+First expeditions in to India were by a Turkic Sultan who established himself in the Afghan highlands he laid the foundations of future conquests in India. The succeeding Ghurid dynasty, also ruled out of Afghanistan and they managed to capture Delhi in the year 1192 ironically though they were overturned by their own slave soldiers like the Mamluks who then called themselves the Delhi sultanate. Dehli sultanate ruled over parts of India from 1206 to 1526 when the Mughals arrived. Islam managed to find a foothold in India despite the Muslim population never outnumbering the Hindus particularly because of the Egalitarian nature of Islam which offered an escape from the Hindu caste system as well as Sufi orders being sponsored by the state.
 
 **Southeast Asia:**
 
@@ -457,7 +457,7 @@ Muslims fleeing Mongol slaughter and Weakening of the Byzantine empire led to Os
 1451: Muhammad Al Fatih takes leadership for 2nd time at 19   
 He was fluent in 6 languages and placed emphasis on Islamic uloom, the vizier class were sceptical of him as a leader so he decided to prove his worth by taking Constantinople. He commissioned a Hungarian engineer to construct the worlds largest cannon which could shoot a 250kg cannonball 1.5km and constructed a fortress along the Bosphorus to control the sea. 
 1453: Constantinople conquered 
-Ottoman expansion continued, Mamluks in Egypt were annexed hence the Abbasid calipha in name was gone and Hijaz was now under Ottoman rule it de facto became the main Islamic power in the world. 
+Ottoman expansion continued, Mamluks in Egypt were annexed hence the Abbasid caliphate in name was gone and Hijaz was now under Ottoman rule it de facto became the main Islamic power in the world. 
 
 **Safavids:**  
 Turkish sufi group that adopted Twelver Shi'ism became known as the Safavids, eventually took over Persia. Twelver Shi'ism and Persian Nationalism merged to become the main identity of the Safavids. Ottomans annexed some land but failed to take the rest and the Turkey Iran split is basically the same border as the Ottoman Safavid ones. 
@@ -475,19 +475,19 @@ Aurangzeb was the culmination of the trend of reverting back to orthodoxy and he
 
 1699: Treaty of Karlowitz  - post 14 year battle Ottomans forced to concede land for the first time ever. Ottoman sultan was forced by the treaty to recognize and protect Christians in the empire. (A theme which would continue in subsequent treaties as Ottomans weakened further.)
 
-"Ottomans reached their natural maximum size" - Personally think this isn't an accurate statement the maximum size of an empire is dictated by parameters which change with time and it just so happened the policies were not in accordance to the size of the empire at the time. 
+"Ottomans reached their natural maximum size." - Personally think this isn't an accurate statement the maximum size of an empire is dictated by parameters which change with time and it just so happened the policies were not in accordance to the size of the empire at the time. 
 
 Key Factors:
  - Late 1500s Sultans stopped going to battle
- - Tradition of Princes fighting for throne stopped, govt officials would pick oldest as defacto leader. Other family members were kept secluded in harems and not trained to be leaders so if they were picked were incompetent.
+ - Tradition of Princes fighting for the throne stopped, govt officials would pick oldest as defacto leader. Other family members were kept secluded in harems and not trained to be leaders so if they were picked were incompetent.
  - Influx of silver from US into Europe led to major inflation for Ottoman currency
  - Renaissance and Enlightenment led to technological progress in Europe
  - Wars on the edges of the empire led to constant loss of territory 
- - International trade was taken out of muslim hands as Ottomans made bad deals with the French who choose to only trade with Christians in the Ottoman lands 
+ - International trade was taken out of Muslim hands as Ottomans made bad deals with the French who choose to only trade with Christians in the Ottoman lands 
  - 1800s: Liberal reform of Ottoman state to mirror European mainly the French. French was taught alongside Turkish in schools, national anthem added etc.
  - Nationalism as a concept began spreading amongst ethnic groups under Ottoman rule such as the Greeks etc
 
-Sultan AbdulHamid II came along and reverted some of the reform bringing power back to the Sultan, reinforcing the Muslim identity of the state and idea of Caliphate. Hijaz railway from Madina to Istanbul was made. Pan-Islamism was a major goal and he sent delegation to Muslim nations/groups across the world to garner oral support which would act as a deterrent. 
+Sultan Abdul Hamid II came along and reverted some of the reform bringing power back to the Sultan, reinforcing the Muslim identity of the state and idea of Caliphate. Hijaz railway from Madina to Istanbul was made. Pan-Islamism was a major goal and he sent delegation to Muslim nations/groups across the world to garner oral support which would act as a deterrent. 
 
 > Theodore Herzl (Founder of Zionism) met with Sultan Abdulhamid II who turned down Herzl's offer to consolidate the Ottoman debt in exchange for a charter allowing the Zionists access to Palestine.
 
@@ -495,7 +495,7 @@ Sultan AbdulHamid II came along and reverted some of the reform bringing power b
 
 ***India:***
 
-Post Aurangzeb Mughal central authority over the smaller sovereigns across Indian waned leading to each group attempting to create their own independent state. Pashtuns in the North taking land from Safavid and Mughals which would lead to modern day Afghanistan. Sikhs establishing independent dominion in Punjab. Marathas, Hindu group conquered most of Northern and Central India by the mid-1700s. Another independent Mysore state in the South.  
+Post Aurangzeb Mughal central authority over the smaller sovereigns across India waned leading to each group attempting to create their own independent state. Pashtuns in the North taking land from Safavid and Mughals which would lead to modern day Afghanistan. Sikhs established independent dominion in Punjab. Marathas, Hindu group conquered most of Northern and Central India by the mid-1700s. Another independent Mysore state in the South.  
 
 East India Company, already present in India from 1600s funded wars to obtain special trading rights becoming advisers and tax collectors for most of the local rulers. 1857, Sepoy Mutiny Indian soldiers in the Company's Army rebelled against the British which led to the British government seizing the Company's land and turn India into British Raj an official colony officially ending the Mughal empire. The resentment for the mutiny were brewing for a while but finally kicked off when it got leaked that the cartridges for their guns which they had to bite was greased with Beef and Pork.
 
@@ -507,7 +507,76 @@ Central Asia, Russia focused on taking the Turkish lands which triggered the Bri
 
 East Asia, Dutch East India Company spread through the Malay Archipelago just like the British East India Company leading to Dutch empire that lasted even after 2nd World War.
 
-1914 1st World war, most of the Muslims were under foreign rule. 
+1914 1st World War, most of the Muslims were under foreign rule. 
 
 ### 12. Old and New Ideas
 
+The success of Islam first as conquests, then as the major contributor towards scientific advancement and then as a global power was seen as a proof of it being true until the European conquest. This led to potential theological issues which had people divided into two camps. The first stated success would only return if people returned to the Islamic focus of the people of the past. The second saying it was necessary to imitate the West to attain similar success.
+
+**The Western Approach**
+
+The rise of the Western idea of secularism and nationalism coincided with Muslims living under European rule. Western trends permeated Arab society. Arab Christians had extensive contact with European merchants due to the Capitulation agreements with the Ottomans. With these developments the thought of Arab national identity began growing. After 1909, after Sultan Abdul Hamid II was overthrown by the secular Young Turks leading to Arabs feeling less included in the Ottoman empire nationalist Arab identity further grew. 
+
+**Traditional Revivalists**
+
+Muhammad Ibn Abdul Wahhab (1703 - 1792):
+One of the first to try revive "traditional" Islam and thought it was necessary to go back to the way of the Salaf and fight the Sufis, Shias etc. He like the Kharijis determined most muslims have fallen into disbelief. He partnered with tribal lead Muhammad Ibn Saud to support him if he allowed Ibn Abdul Wahhab's to proliferate his way of thought, evolving into what became known as Salafism. Early 1800s, Ibn Saud conquered most of the Arabian peninsula. 
+
+Shah Waliullah (1703 - 1762):
+A scholar who feared for the Muslims due to disunity, civil wars and the rise of Hindu political power due to disunity and civil wars of Mughal India. He focused on the social aspects of Islam and encouraged people to return back to a more Islamic oriented way of living to bring back the success of the Muslims.
+
+Hasan Al-Banna (1906 - 1949):
+Egyptian school teacher who founded the Muslim Brotherhood who merged Islamic values and Arab nationalism hitting a balance between the traditionalists and the completely secular Egyptian state power. They set up schools, hospitals etc which led them to being popular amongst Egyptians leading to persecution for decades from the state dedicated to complete secularism. 
+
+**The Partition**
+
+1914: WW1 began and the Ottoman government run by the Young Turks supported Germany against Britain, France and Russia. Eventually, the Ottomans lost the war. 
+1915: British were speaking to Sharif Husayn, the Ottoman governor of Makkah to create an Arab revolt. Sharif armed and supported by the British led the rebellion taking Madina, Amman and Damascus from the Ottomans. The British on the other side kept Egypt and took Jerusalem for the first time from Muslim hands since the Crusades.
+
+British and the French split up the lands amongst themselves not fulfilling the agreement with Sharif. French took North Syria and Lebanon. Britain took Mesopotamia and Palestine as part of the Skyes-Picot agreement.
+
+1917: Arthur Balfour, foreign secretary of the UK sent letter to Baron Rothschild (Jewish Banker) promising support for a national home for the Jewish. Background context is that the Zionist movement had been seeking a national home for the Jews in Palestine. It became known as the Balfour Declaration and legitimacy for the Jews to settle and control the land leading to the state of Israel.
+
+**The Rise of Nation-States**
+Post-effective Ottoman collapse and splitting up of states amongst the European conquerors along with Arab-Turk nationalistic identity. Ottoman army officer, Mustafa Kemal (Ataturk - Father of the Turks) fought out the occupiers (1919 - 1922) and announced the state of Turkey to replace the Ottoman Empire (623 years it was founded).
+
+He saw success in riding Turkey of its Islamic origin and focusing on the identity of the Turks. 
+1924: Caliph AbdulMajid II forced into exile -> End of Caliphate
+> Hijab, Fez, Sufi Orders and the Arabic adhan were banned later
+> Replaced Arabic alphabet for Turkish with the Latin alphabet
+
+Out of Ottoman Syria and Mesopotamia -> Syria, Iraq, Lebanon, Jordan and Palestine.
+Balfour Declaration -> Jews were allowed to settle in the Mandate of Palestine.
+
+Iraq borders drawn so that Sunni Arabs, Sunni Kurds and Shia Arabs were each 1/3 of the population inevitably leading to years of ethnic/religious conflict. 
+
+1918: ~60,000 Jews in Palestine
+1939: ~460,000 Jews in Palestine
+Demographic shift was unwelcomed by the Arabs living there leading to the 1930s riots.
+1948: State of Israel was created
+Arab coalition failed to defeat Israel leading to more land under Israeli rule. 
+1948-49: >700,000 Arab Muslims and Christians were forced out to Jordan, Egypt, Syria and Lebanon. Israeli state sought to put the demographics in their favour by way of expulsion known as the Nakba (Catastrophe). 
+
+**India:**
+
+1857: Sepoy Rebellion
+Late 1800s: Indian National Congress formed to fight for greater political rule, dominated by Hindus as they were the majority of the population. Seen as an issue by certain Muslims they pushed for an independent state. Muhammad Iqbal and Ali Jinnah led the Pakistan movement, a push for a Muslim state. 1947: The British ended their direct control of the region and the state of Pakistan was established of Northwest (Sindh, Punjab and Balochistan) and East (Bengal).
+
+> Pakistan is the acronym of Muslim majority parts of India. (Punjab, Afghania Province, Kashmir, Sindh and Baluchistan)
+
+1949: Indonesia became independent after a long war with Dutch empire
+1952: Egypt Revolution ended British occupation
+1962: Algeria regained independence after being under French occupation 
+1960s: Nigeria, Mali, Mauritania, Kenya and Tanzania became independent.
+
+**Islam and Secularism**
+
+
+1971: East Pakistan became a separate state Bangladesh
+1967-1973: Lack of effective unity of Egypt, Jordan, Syria and Lebanon meant they were constantly defeated by Israel
+
+For the first time in history, the idea of Muslims running states based on Islamic rule was not the given and instead secularism became the methodology of the day besides exceptions like Saudi Arabia. 
+
+Amongst current Muslim society is a dichotomy of some arguing that Islam as a religion no longer has a place or as important a role to play in running a state and others claiming it is the only way to run a state. We see these fighting methodologies being played out in the current world in the likes of Turkey, Saudi Arabia. Not so long ago, in Egypt, Tunisia and Syria during the Arab Spring.
+
+> Whether Islam once again plays a vital role or Secularism is the dominant methodology or a merger of the two is left to be seen for the future.
