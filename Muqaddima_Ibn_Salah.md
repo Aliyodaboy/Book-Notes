@@ -119,5 +119,12 @@ Ml Zeeshan: 2 & 4 are the most convincing but the conclusion
 
 There was an opinion put forward by some scholars that Sahih Muslim was more Sahih than Sahih Bukhari so he answers this objection by you are wrong and the qawl can be interpreted as saying "Imam Muslim does not bring hadiths without chains after his introduction like Imam Bukhari" so it's more preferred because its more straightforward to use. 
 
+Ibn Salah says Imam Muslim is referring to the conditions of Sahih being mujma alay not the actual hadith themselves so others may disagree with the application of those conditions to some of the hadiths in Sahih Muslim.
+
+100/150 year Imam Hakim write Al-Mustadrak ala Sahihayn, the correction of the sahihayn. He attempted to narrate the hadith that fulfilled the conditions of the Sahihayn or one of them but not mentioned in Sahihayn. Ibn Salah uses this as a single evidence to refute the claim that there are few sahih narrations not in Sahihayn even though as Ibn Salah said there is a discussion that some of them are weak because it still shows there are many ahadith that are sahih not in Sahihayn. Imam Hakim included 4 types of narrators: those in Sahihayn, those in Bukhari alone, those in Muslim alone, and those He considered sahih but not in Sahihayn.
+
+Ml Zeeshan: The response to this quote of Abu Abdillah bin Akram who is a Hafidh is that he was referring to the Usul of Sunnah. It's improbable that you will find a sunnah not touched upon by Bukhari or Muslim or something Sahih that tells you a completely different way to wudhu/salah etc.
+
+Mustakraj works attempted to find the hadith that Imam Bukhari or Muslim only mentioned a part of, so the extra wording mentioned in those books is also sahih because it's the same hadith and so you can also suffice with those works. Most of these works are not found today alone but as part of the shurohaat like in Fathul Bari etc. 
 
 
