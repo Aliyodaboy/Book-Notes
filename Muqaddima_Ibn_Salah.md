@@ -62,7 +62,7 @@ The 3rd paragraph explains what he has done and the 65 categories he has split t
 This 3 level tiering even though he says it's according to the Muhadithoon it seems to be from his reading of their works. The concepts mentioned here there is not any major ikhtilaf on. 
  - if a hadith meets X -> it is accepted
  - if a hadith meets Y -> it is still accepted 
- - if a hadith meets Z -> it is weak/not accepted
+ - if a hadith meets Z (i.e. doesn't meet X or Y) -> it is weak/not accepted
   
 There is a khilaf on the istahlaha used to describe those categories. Mainly on the term حَسَن  and what earlier scholars actually meant when they used the term. There is no ikhtilaf on what Ibn Salah describes as حَسَن being accepted. The حَسَن category is due to Ibn Salah noticing scholars accepting ahadith which did not meet the criteria of صَحِيح.
 
@@ -106,9 +106,9 @@ He reasons for the above because Sahih only means one trustworthy person narrate
 > Nuqta here: Sometimes things are significant at the time but in the larger view of history no one cares, it becomes just a footnote in history. He was an old guy who got pressured and said something, now it means nothing he is still an imam in the field but at the time it was a scandalous issue.
 2. There are 4 different interpretations of Ibn Salah means in this paragraph. 
    1. Ibn Hajar & others: Ibn Salah is saying we can no longer independently grade hadith
-   2. Sh Awaamah & Sh Hamza Malibari: Ibn Salah refers explicitly to the Ajzaa. Ajzaa are these later private collections of hadiths that people would have of their sanads and sometimes those sanads would even go through the major hadith books. Therefore, if these private collections contain a unique sanad you cannot grade that because in the later generations, people stopped checking rigorously for the conditions of narrators. These ajzaa are also held up to the high standards that the hadith books were held up to re precision etc. This interpretation is supported by the fact Ibn Salah himself graded ahadith.
+   2. Sh Awaamah & Sh Hamza Malibari: Ibn Salah refers explicitly to the Ajzaa. Ajzaa are these later private collections of hadiths that people would have of their sanads and sometimes those sanads would even go through the major hadith books. Therefore, if these private collections contain a unique sanad you cannot grade that because in the later generations, people stopped checking rigorously for the conditions of narrators. These ajzaa are also not held up to the high standards that the hadith books were held up to re precision etc. This interpretation is supported by the fact Ibn Salah himself graded ahadith.
    3. Imam Suyuti: We can't grade hadiths as Sahih li Nafisihi because we can no longer find the hidden defects in the chain because we are too far from the time and have no vouching from previous scholars. However, if we can find some corroboration, we can grade it Sahih li Ghayrihi.
-   4. Sheikh Hatim Al-Awni: We can do everything except naful 3illah so we can authenticate the isnad but not the hadith. e.g. we can say this chain is sahih but not this hadith is sahih. (Ml Zeeshan is similar to Imam Suyuti, but the terms used differ.)
+   4. Sheikh Hatim Al-Awni: We can do everything except naful 3illah so we can authenticate the isnad but not the hadith. e.g. we can say this chain is sahih but not this hadith is sahih. (Ml Zeeshan: this is similar to Imam Suyuti, but the terms used differ.)
 Ml Zeeshan: 2 & 4 are the most convincing but the conclusion 
 
 
