@@ -62,7 +62,7 @@ The 3rd paragraph explains what he has done and the 65 categories he has split t
 This 3 level tiering even though he says it's according to the Muhadithoon it seems to be from his reading of their works. The concepts mentioned here there is not any major ikhtilaf on. 
  - if a hadith meets X -> it is accepted
  - if a hadith meets Y -> it is still accepted 
- - if a hadith meets Z -> it is weak/not accepted
+ - if a hadith meets Z (i.e. doesn't meet X or Y) -> it is weak/not accepted
   
 There is a khilaf on the istahlaha used to describe those categories. Mainly on the term حَسَن  and what earlier scholars actually meant when they used the term. There is no ikhtilaf on what Ibn Salah describes as حَسَن being accepted. The حَسَن category is due to Ibn Salah noticing scholars accepting ahadith which did not meet the criteria of صَحِيح.
 
@@ -92,7 +92,7 @@ The bulk of the time it is due to the first (i.e. 5 conditions). Everyone agrees
 
 When a scholar says "هَذَا حَدِيثٌ صَحِيحٌ" -> meets the 5 conditions, not that it is definitively from Nabi SAW. This nuance gives wiggle room for scholars. Therefore, you see scholars not going along with a Sahih hadith sometimes. 
 
-He reasons for the above because Sahih only means one trustworthy person narrated it and they are capable of error. He adds the last clause to exclude khabrul wahid which the Ummah has accepted. (Similar to the concept of Mashur in Hanafi Usul) He does this to respond to the possible objection of someone saying but we have Sahih khabrul wahid which are treated as definitive. 
+He reasons for the above because Sahih only means one trustworthy person narrated it and they are capable of error. He adds the last clause to exclude sahih khabrul wahid which the Ummah has accepted and its mutawatir in concept and treated as it. (Similar to the concept of Mashur in Hanafi Usul) He does this to respond to the possible objection of someone saying but we have Sahih khabrul wahid which are treated as definitive. 
 
 ### فَوَائِدُ مُهِمَّةٌ
 
@@ -106,9 +106,25 @@ He reasons for the above because Sahih only means one trustworthy person narrate
 > Nuqta here: Sometimes things are significant at the time but in the larger view of history no one cares, it becomes just a footnote in history. He was an old guy who got pressured and said something, now it means nothing he is still an imam in the field but at the time it was a scandalous issue.
 2. There are 4 different interpretations of Ibn Salah means in this paragraph. 
    1. Ibn Hajar & others: Ibn Salah is saying we can no longer independently grade hadith
-   2. Sh Awaamah & Sh Hamza Malibari: Ibn Salah refers explicitly to the Ajzaa. Ajzaa are these later private collections of hadiths that people would have of their sanads and sometimes those sanads would even go through the major hadith books. Therefore, if these private collections contain a unique sanad you cannot grade that because in the later generations, people stopped checking rigorously for the conditions of narrators. These ajzaa are also held up to the high standards that the hadith books were held up to re precision etc. This interpretation is supported by the fact Ibn Salah himself graded ahadith.
+   2. Sh Awaamah & Sh Hamza Malibari: Ibn Salah refers explicitly to the Ajzaa. Ajzaa are these later private collections of hadiths that people would have of their sanads and sometimes those sanads would even go through the major hadith books. Therefore, if these private collections contain a unique sanad you cannot grade that because in the later generations, people stopped checking rigorously for the conditions of narrators. These ajzaa are also not held up to the high standards that the hadith books were held up to re precision etc. This interpretation is supported by the fact Ibn Salah himself graded ahadith.
    3. Imam Suyuti: We can't grade hadiths as Sahih li Nafisihi because we can no longer find the hidden defects in the chain because we are too far from the time and have no vouching from previous scholars. However, if we can find some corroboration, we can grade it Sahih li Ghayrihi.
-   4. Sheikh Hatim Al-Awni: We can do everything except naful 3illah so we can authenticate the isnad but not the hadith. e.g. we can say this chain is sahih but not this hadith is sahih. (Ml Zeeshan is similar to Imam Suyuti, but the terms used differ.)
+   4. Sheikh Hatim Al-Awni: We can do everything except naful 3illah so we can authenticate the isnad but not the hadith. e.g. we can say this chain is sahih but not this hadith is sahih. (Ml Zeeshan: this is quite similar to Imam Suyuti, but the terms used differ.)
 Ml Zeeshan: 2 & 4 are the most convincing but the conclusion 
+
+3rd important point is to answer the objection re isn't the Muwatta of Imam Malik the first sahih collection with the claim of being sahih.
+ - It's not established that Imam Malik said that his muwatta was a collection of Sahih but Imam Muslim and Bukhari very clearly call their works a Jami3 of Sahih
+ - There are ahadith in the Muwatta that are Balaghaat (Balagani Narrations)
+ - Imam Shafi passed away before Bukhari did his Sahih so his statement doesn't apply
+ - Also Imam Shafi's statement is regarding "most correct" does not equate to everything being authentic
+
+There was an opinion put forward by some scholars that Sahih Muslim was more Sahih than Sahih Bukhari so he answers this objection by you are wrong and the qawl can be interpreted as saying "Imam Muslim does not bring hadiths without chains after his introduction like Imam Bukhari" so it's more preferred because its more straightforward to use. 
+
+Ibn Salah says Imam Muslim is referring to the conditions of Sahih being mujma alay not the actual hadith themselves so others may disagree with the application of those conditions to some of the hadiths in Sahih Muslim.
+
+100/150 year Imam Hakim write Al-Mustadrak ala Sahihayn, the correction of the sahihayn. He attempted to narrate the hadith that fulfilled the conditions of the Sahihayn or one of them but not mentioned in Sahihayn. Ibn Salah uses this as a single evidence to refute the claim that there are few sahih narrations not in Sahihayn even though as Ibn Salah said there is a discussion that some of them are weak because it still shows there are many ahadith that are sahih not in Sahihayn. Imam Hakim included 4 types of narrators: those in Sahihayn, those in Bukhari alone, those in Muslim alone, and those He considered sahih but not in Sahihayn.
+
+Ml Zeeshan: The response to this quote of Abu Abdillah bin Akram who is a Hafidh is that he was referring to the Usul of Sunnah. It's improbable that you will find a sunnah not touched upon by Bukhari or Muslim or something Sahih that tells you a completely different way to wudhu/salah etc.
+
+Mustakraj works attempted to find the hadith that Imam Bukhari or Muslim only mentioned a part of, so the extra wording mentioned in those books is also sahih because it's the same hadith and so you can also suffice with those works. Most of these works are not found today alone but as part of the shurohaat like in Fathul Bari etc. 
 
 
