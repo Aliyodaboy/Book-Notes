@@ -125,6 +125,13 @@ Ibn Salah says Imam Muslim is referring to the conditions of Sahih being mujma a
 
 Ml Zeeshan: The response to this quote of Abu Abdillah bin Akram who is a Hafidh is that he was referring to the Usul of Sunnah. It's improbable that you will find a sunnah not touched upon by Bukhari or Muslim or something Sahih that tells you a completely different way to wudhu/salah etc.
 
-Mustakraj works attempted to find the hadith that Imam Bukhari or Muslim only mentioned a part of, so the extra wording mentioned in those books is also sahih because it's the same hadith and so you can also suffice with those works. Most of these works are not found today alone but as part of the shurohaat like in Fathul Bari etc. 
+Mustakraj works attempted to find the hadith that Imam Bukhari or Muslim only mentioned a part of, so the extra wording mentioned in those books is also sahih because it's the same hadith with the same chain you can also suffice with those works. Most of these works are not found today alone but as part of the shurohaat like in Fathul Bari etc. 
 
+Sixth Point:
+Famous example of the hadith about Wahi where Prophet SAW was extremely sad and throwing himself of the mountain. 
+فَتَرَ الْوَحْىُ فَتْرَةً حَتَّى حَزِنَ النَّبِيُّ صلى الله عليه وسلم فِيمَا بَلَغَنَا حُزْنًا غَدَا مِنْهُ مِرَارًا كَىْ يَتَرَدَّى مِنْ رُءُوسِ شَوَاهِقِ الْجِبَالِ، فَكُلَّمَا أَوْفَى بِذِرْوَةِ جَبَلٍ لِكَىْ يُلْقِيَ مِنْهُ نَفْسَهُ
+
+We say that it says for that part of the hadith "Balagana" so it's Muallaq to Zuhri without an isnad so we are not bound to accept that, nor does it mean it's automatically Sahih.
+
+Anything Muallaq in Sahihayn needs separate investigation into it's authenticity.
 
