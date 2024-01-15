@@ -128,10 +128,28 @@ Ml Zeeshan: The response to this quote of Abu Abdillah bin Akram who is a Hafidh
 Mustakraj works attempted to find the hadith that Imam Bukhari or Muslim only mentioned a part of, so the extra wording mentioned in those books is also sahih because it's the same hadith with the same chain you can also suffice with those works. Most of these works are not found today alone but as part of the shurohaat like in Fathul Bari etc. 
 
 Sixth Point:
+Definitions:
+   1. Muallaq: The beginning of the chain has been dropped e.g. I drop my teacher from the chain (could be 1 or more)
+   2. Mu3dal: 2 or more consecutively 
+      - So something can be both Muallaq & Mu3dal
+   3. Mursal: (Most famous definition because some ikhtilaf exists) Tabi'ee narrates straight from Nabi SAW (i.e. Sahabi dropped)
+   4. Munqati: Any gap in the chain (Broadest term)
+
+1 is mostly used in reference to Bukhari. 3 and 4 are the most commonly used terms because there is a debate about 3 and 4 is used for general gaps. 2 entails a massive issue because there is a massive gap in the chain. 
+<!-- TODO add quote about Mu3dal fi hi mafa'iz tanqatiu bihi a3naaqul ibil -->
 Famous example of the hadith about Wahi where Prophet SAW was extremely sad and throwing himself of the mountain. 
 فَتَرَ الْوَحْىُ فَتْرَةً حَتَّى حَزِنَ النَّبِيُّ صلى الله عليه وسلم فِيمَا بَلَغَنَا حُزْنًا غَدَا مِنْهُ مِرَارًا كَىْ يَتَرَدَّى مِنْ رُءُوسِ شَوَاهِقِ الْجِبَالِ، فَكُلَّمَا أَوْفَى بِذِرْوَةِ جَبَلٍ لِكَىْ يُلْقِيَ مِنْهُ نَفْسَهُ
 
 We say that it says for that part of the hadith "Balagana" so it's Muallaq to Zuhri without an isnad so we are not bound to accept that, nor does it mean it's automatically Sahih.
 
-Anything Muallaq in Sahihayn needs separate investigation into it's authenticity.
+Anything Muallaq in Sahihayn needs a separate investigation into it's authenticity. 
+
+Imam Bukhari brings his Muallaqat in 2 ways:
+  1. Seeghatul Jazm (قـال)
+  2. Seeghatul Tamreed (رُوي عن)
+
+Ibn Salah's approach is we will assume 1 to be authentic and we give weight to 2 but it's not necessarily authentic. Ibn Hajr came later and wrote the most significant work on the Muallaqaat of Bukhari (تـغـلـيـق الـتـعـلـيـق على صـحـيـح الـبـخـاري) in which he tries to find chains for all of the Muallaqaat of Bukhari and what scholars have said about it. In Fathul Bari he included a lot of the content from Tagleeq when a muallaq narration comes. Ibn Hajar has a more nuanced take on this passage in his nuqat. Ibn Hajar's approach is Jazm -> Sahih or Hasan and Tamreed -> Sahih, Hasan, Daeef (Yunjabar: strengthened from another route). Ibn Hajar says there is no single muallaq narration in Sahih Bukhari that is completely dismissed.
+
+Everything Ibn Salah has said here regarding inclining towards the muallaq narration is true in theory and could be used back in his time but since then we have scholars complete the studies on those narrations so we can check Fathul Bari and see what Ibn Hajar says about the narration.
+
 
